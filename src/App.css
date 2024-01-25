@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+}
+.invert{
+  filter: invert(100%);
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.25rem #FEB139;
+}
+
+.more-form:focus{
+  box-shadow: 0 0 0 0.25rem #293462;
+  
+}
+
+#qrcontainer{
+  padding: 5px;
+  border: 5px solid #484848;
+  border-radius: 10px;
+  background-color: white;
+  margin: 10px;
+}
+
